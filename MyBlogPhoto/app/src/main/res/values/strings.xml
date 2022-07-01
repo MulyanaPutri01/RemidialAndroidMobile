@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBlogPhoto</string>
+    <string name="api_server">http://192.168.161.116:8000/api</string>
+</resources>
